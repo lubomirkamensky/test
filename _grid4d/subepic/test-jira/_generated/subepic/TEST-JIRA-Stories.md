@@ -1,14 +1,14 @@
-# test-sandbox Stories
+# test-jira Stories
 
 > Generated: 2026-09-13 14:14
 >
-> Scope: `TEST-SANDBOX-*` stories only
+> Scope: `TEST-JIRA-*` stories only
 
 ## Open
 
 | Story | Description |
 |-------|-------------|
-| *None* | |
+| [TEST-JIRA-0001](TEST-JIRA-0001) | Jira-mirror story with autonomous pattern |
 
 ## Completed
 
@@ -16,4 +16,4 @@
 |-------|-----|--------------|
 | *None* | | |
 
-**Total:** 0 completed, 0 open
+**Total:** 0 completed, 1 open

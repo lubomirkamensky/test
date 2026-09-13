@@ -1,4 +1,4 @@
-# test-sandbox Knowledge Graph
+# test-jira Knowledge Graph
 
 > Generated: 2026-09-13 14:14
 

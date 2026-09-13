@@ -1,6 +1,6 @@
 # test Issues
 
-> Generated: 2026-09-11 19:17
+> Generated: 2026-09-13 14:14
 
 Issue status and recurrence over the epic's issue documents.
 The CLI counts and names recurring types; choosing what to

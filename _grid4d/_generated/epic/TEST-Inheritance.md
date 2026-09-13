@@ -1,11 +1,11 @@
 # test Inheritance
 
-> Generated: 2026-09-11 19:17
+> Generated: 2026-09-13 14:14
 
 ## Summary
 
 **Epics:** 2
-**SubEpics:** 4
+**SubEpics:** 5
 
 ## Hierarchy
 
@@ -15,6 +15,7 @@ evolucean
     ├── evolucean-software (subepic)
     ├── evolucean-timbrcli (subepic)
 test
+    ├── test-jira (subepic)
     ├── test-sandbox (subepic)
 ```
 
@@ -32,4 +33,5 @@ test
 | evolucean-data | evolucean | SubEpic |
 | evolucean-software | evolucean | SubEpic |
 | evolucean-timbrcli | evolucean | SubEpic |
+| test-jira | test | SubEpic |
 | test-sandbox | test | SubEpic |

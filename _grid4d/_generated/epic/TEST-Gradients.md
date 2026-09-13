@@ -1,6 +1,6 @@
 # test Gradients
 
-> Generated: 2026-09-11 19:17
+> Generated: 2026-09-13 14:14
 
 ## Metric Implementation Status
 
@@ -8,7 +8,7 @@
 |----------|--------|--------|-------|------------|
 | **Artifact** | Code Traceability | ⚠️ | no data | [Artifacts](TEST-Artifacts) |
 |  | Blueprint Coverage | ⚠️ | no data | [Orphans](TEST-Orphans) |
-|  | Test Pass Rate | ⚠️ | no data | [Artifacts](TEST-Artifacts) |
+|  | Test Pass Rate | ✅ | 2/2 | [Artifacts](TEST-Artifacts) |
 |  | Test Coverage | ⚠️ | no data | [Artifacts](TEST-Artifacts) |
 |  | Pattern Coverage | ⚠️ | no data | [Design-Patterns](TEST-Design-Patterns) |
 |  | Code Entropy | ⚠️ | no data | [Complexity](TEST-Complexity) |
@@ -16,13 +16,13 @@
 |  | Module Change Freshness | ❌ | - | - |
 | **Document** | Ontology Coverage | ⚠️ | no data | [Shaping](TEST-Shaping) |
 |  | Blueprint Traceability | ⚠️ | no data | [Shaping](TEST-Shaping) |
-|  | Karma | ✅ | 1449 uses / 968 docs | [Karma-Report](TEST-Karma-Report) |
-|  | Knowledge Usage Freshness | ❌ | 0/3 fresh | [Usage](TEST-Usage) |
-|  | Knowledge Change Freshness | ✅ | 3/3 fresh | [Usage](TEST-Usage) |
+|  | Karma | ✅ | 1614 uses / 1057 docs | [Karma-Report](TEST-Karma-Report) |
+|  | Knowledge Usage Freshness | ❌ | 0/9 fresh | [Usage](TEST-Usage) |
+|  | Knowledge Change Freshness | ✅ | 9/9 fresh | [Usage](TEST-Usage) |
 |  | Concept Test Coverage | ⚠️ | no data | [Concepts](TEST-Concepts) |
-| **Epic** | Epic Progress | ✅ | 0/1 | [Stories](TEST-Stories) |
-|  | Story Progress | ⚠️ | no data | [Stories](TEST-Stories) |
-|  | Dependency Validity | ✅ | 0 issues | [Filenames-Links](TEST-Filenames-Links) |
+| **Epic** | Epic Progress | ✅ | 1/1 | [Stories](TEST-Stories) |
+|  | Story Progress | ✅ | 2/2 | [Stories](TEST-Stories) |
+|  | Dependency Validity | ⚠️ | 14 issues | [Filenames-Links](TEST-Filenames-Links) |
 |  | Issue Recurrence | ⚠️ | no data | [Issues](TEST-Issues) |
 |  | Alignment Debt | ❌ | - | - |
 |  | Code-Blueprint Drift | ❌ | - | - |

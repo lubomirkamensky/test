@@ -1,6 +1,6 @@
 # test Stories
 
-> Generated: 2026-09-11 19:17
+> Generated: 2026-09-13 14:14
 >
 > Scope: `TEST-*` stories only
 
@@ -8,12 +8,12 @@
 
 | Story | Description |
 |-------|-------------|
-| [TEST-0001](TEST-0001) | First story in the test epic |
+| *None* | |
 
 ## Completed
 
 | Story | Map | Verification |
 |-------|-----|--------------|
-| *None* | | |
+| [TEST-0001](TEST-0001) | ok | All PASS |
 
-**Total:** 0 completed, 1 open
+**Total:** 1 completed, 0 open

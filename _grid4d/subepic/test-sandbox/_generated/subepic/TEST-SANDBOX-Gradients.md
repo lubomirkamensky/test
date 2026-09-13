@@ -1,6 +1,6 @@
 # test-sandbox Gradients
 
-> Generated: 2026-09-11 19:17
+> Generated: 2026-09-13 14:14
 
 ## Metric Implementation Status
 
@@ -16,13 +16,13 @@
 |  | Module Change Freshness | ❌ | - | - |
 | **Document** | Ontology Coverage | ⚠️ | no data | [Shaping](TEST-SANDBOX-Shaping) |
 |  | Blueprint Traceability | ⚠️ | no data | [Shaping](TEST-SANDBOX-Shaping) |
-|  | Karma | ✅ | 1449 uses / 968 docs | [Karma-Report](TEST-SANDBOX-Karma-Report) |
+|  | Karma | ✅ | 1614 uses / 1057 docs | [Karma-Report](TEST-SANDBOX-Karma-Report) |
 |  | Knowledge Usage Freshness | ❌ | 0/1 fresh | [Usage](TEST-SANDBOX-Usage) |
 |  | Knowledge Change Freshness | ✅ | 1/1 fresh | [Usage](TEST-SANDBOX-Usage) |
 |  | Concept Test Coverage | ⚠️ | no data | [Concepts](TEST-SANDBOX-Concepts) |
 | **Epic** | Epic Progress | ⚠️ | no data | [Stories](TEST-SANDBOX-Stories) |
 |  | Story Progress | ⚠️ | no data | [Stories](TEST-SANDBOX-Stories) |
-|  | Dependency Validity | ⚠️ | 16 issues | [Filenames-Links](TEST-SANDBOX-Filenames-Links) |
+|  | Dependency Validity | ⚠️ | 8 issues | [Filenames-Links](TEST-SANDBOX-Filenames-Links) |
 |  | Issue Recurrence | ⚠️ | no data | [Issues](TEST-SANDBOX-Issues) |
 |  | Alignment Debt | ❌ | - | - |
 |  | Code-Blueprint Drift | ❌ | - | - |
