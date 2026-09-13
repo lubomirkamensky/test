@@ -1,6 +1,6 @@
 # test-sandbox Gradients
 
-> Generated: 2026-09-13 14:34
+> Generated: 2026-09-13 19:22
 
 ## Metric Implementation Status
 
@@ -8,7 +8,7 @@
 |----------|--------|--------|-------|------------|
 | **Artifact** | Code Traceability | ⚠️ | no data | [Artifacts](TEST-SANDBOX-Artifacts) |
 |  | Blueprint Coverage | ⚠️ | no data | [Orphans](TEST-SANDBOX-Orphans) |
-|  | Test Pass Rate | ⚠️ | no data | [Artifacts](TEST-SANDBOX-Artifacts) |
+|  | Test Pass Rate | ✅ | 3/3 | [Artifacts](TEST-SANDBOX-Artifacts) |
 |  | Test Coverage | ⚠️ | no data | [Artifacts](TEST-SANDBOX-Artifacts) |
 |  | Pattern Coverage | ⚠️ | no data | [Design-Patterns](TEST-SANDBOX-Design-Patterns) |
 |  | Code Entropy | ⚠️ | no data | [Complexity](TEST-SANDBOX-Complexity) |
@@ -16,13 +16,13 @@
 |  | Module Change Freshness | ❌ | - | - |
 | **Document** | Ontology Coverage | ⚠️ | no data | [Shaping](TEST-SANDBOX-Shaping) |
 |  | Blueprint Traceability | ⚠️ | no data | [Shaping](TEST-SANDBOX-Shaping) |
-|  | Karma | ✅ | 1615 uses / 1058 docs | [Karma-Report](TEST-SANDBOX-Karma-Report) |
-|  | Knowledge Usage Freshness | ❌ | 0/1 fresh | [Usage](TEST-SANDBOX-Usage) |
-|  | Knowledge Change Freshness | ✅ | 1/1 fresh | [Usage](TEST-SANDBOX-Usage) |
+|  | Karma | ✅ | 1642 uses / 1073 docs | [Karma-Report](TEST-SANDBOX-Karma-Report) |
+|  | Knowledge Usage Freshness | ❌ | 0/4 fresh | [Usage](TEST-SANDBOX-Usage) |
+|  | Knowledge Change Freshness | ✅ | 4/4 fresh | [Usage](TEST-SANDBOX-Usage) |
 |  | Concept Test Coverage | ⚠️ | no data | [Concepts](TEST-SANDBOX-Concepts) |
-| **Epic** | Epic Progress | ⚠️ | no data | [Stories](TEST-SANDBOX-Stories) |
-|  | Story Progress | ⚠️ | no data | [Stories](TEST-SANDBOX-Stories) |
-|  | Dependency Validity | ⚠️ | 8 issues | [Filenames-Links](TEST-SANDBOX-Filenames-Links) |
+| **Epic** | Epic Progress | ✅ | 1/1 | [Stories](TEST-SANDBOX-Stories) |
+|  | Story Progress | ✅ | 3/3 | [Stories](TEST-SANDBOX-Stories) |
+|  | Dependency Validity | ⚠️ | 10 issues | [Filenames-Links](TEST-SANDBOX-Filenames-Links) |
 |  | Issue Recurrence | ⚠️ | no data | [Issues](TEST-SANDBOX-Issues) |
 |  | Alignment Debt | ❌ | - | - |
 |  | Code-Blueprint Drift | ❌ | - | - |

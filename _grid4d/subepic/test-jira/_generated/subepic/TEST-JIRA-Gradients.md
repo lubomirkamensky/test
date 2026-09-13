@@ -1,6 +1,6 @@
 # test-jira Gradients
 
-> Generated: 2026-09-13 14:34
+> Generated: 2026-09-13 19:22
 
 ## Metric Implementation Status
 
@@ -16,7 +16,7 @@
 |  | Module Change Freshness | ❌ | - | - |
 | **Document** | Ontology Coverage | ⚠️ | no data | [Shaping](TEST-JIRA-Shaping) |
 |  | Blueprint Traceability | ⚠️ | no data | [Shaping](TEST-JIRA-Shaping) |
-|  | Karma | ✅ | 1615 uses / 1058 docs | [Karma-Report](TEST-JIRA-Karma-Report) |
+|  | Karma | ✅ | 1642 uses / 1073 docs | [Karma-Report](TEST-JIRA-Karma-Report) |
 |  | Knowledge Usage Freshness | ❌ | 0/2 fresh | [Usage](TEST-JIRA-Usage) |
 |  | Knowledge Change Freshness | ✅ | 2/2 fresh | [Usage](TEST-JIRA-Usage) |
 |  | Concept Test Coverage | ⚠️ | no data | [Concepts](TEST-JIRA-Concepts) |
