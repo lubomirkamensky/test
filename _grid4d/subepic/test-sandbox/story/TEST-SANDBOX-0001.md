@@ -4,7 +4,7 @@
 
 **Type:** default
 **Epic:** [TEST-SANDBOX](../TEST-SANDBOX)
-**Status:** in_progress
+**Status:** completed
 **Blueprint:** [implementation-story-blueprint](implementation-story-blueprint)
 
 ## Goal

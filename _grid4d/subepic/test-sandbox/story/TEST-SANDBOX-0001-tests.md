@@ -37,9 +37,9 @@ tests:
 
 | Test | Result | Date |
 |------|--------|------|
-| R1_patterns_consumed_in_knowledge_map | ✅ green | 2026-09-13 |
-| R2_subepic_story_file_resolution | ✅ green | 2026-09-13 |
-| R3_shared_state_observations_recorded | ✅ green | 2026-09-13 |
+| R1_patterns_consumed_in_knowledge_map | ✅ | 2026-09-13 |
+| R2_subepic_story_file_resolution | ✅ | 2026-09-13 |
+| R3_shared_state_observations_recorded | ✅ | 2026-09-13 |
 
 ## Related
 
