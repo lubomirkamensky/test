@@ -34,9 +34,9 @@ tests:
 
 | Test | Result | Date |
 |------|--------|------|
-| R1_patterns_exist | ⚪ | |
-| R2_checkable_rules_present | ⚪ | |
-| R3_shared_state_watchpoints | ⚪ | |
+| R1_patterns_exist | ✅ | 2026-09-13 |
+| R2_checkable_rules_present | ✅ | 2026-09-13 |
+| R3_shared_state_watchpoints | ✅ | 2026-09-13 |
 
 ## Related
 
