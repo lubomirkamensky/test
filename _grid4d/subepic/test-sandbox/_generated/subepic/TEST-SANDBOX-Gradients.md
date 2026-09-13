@@ -1,6 +1,6 @@
 # test-sandbox Gradients
 
-> Generated: 2026-09-13 14:14
+> Generated: 2026-09-13 14:34
 
 ## Metric Implementation Status
 
@@ -16,7 +16,7 @@
 |  | Module Change Freshness | ❌ | - | - |
 | **Document** | Ontology Coverage | ⚠️ | no data | [Shaping](TEST-SANDBOX-Shaping) |
 |  | Blueprint Traceability | ⚠️ | no data | [Shaping](TEST-SANDBOX-Shaping) |
-|  | Karma | ✅ | 1614 uses / 1057 docs | [Karma-Report](TEST-SANDBOX-Karma-Report) |
+|  | Karma | ✅ | 1615 uses / 1058 docs | [Karma-Report](TEST-SANDBOX-Karma-Report) |
 |  | Knowledge Usage Freshness | ❌ | 0/1 fresh | [Usage](TEST-SANDBOX-Usage) |
 |  | Knowledge Change Freshness | ✅ | 1/1 fresh | [Usage](TEST-SANDBOX-Usage) |
 |  | Concept Test Coverage | ⚠️ | no data | [Concepts](TEST-SANDBOX-Concepts) |

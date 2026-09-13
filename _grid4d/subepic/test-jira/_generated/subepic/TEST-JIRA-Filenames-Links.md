@@ -1,7 +1,7 @@
 # test-jira Filenames & Links
 
-> Generated: 2026-09-13 14:14
-> Files indexed: 1928
+> Generated: 2026-09-13 14:34
+> Files indexed: 1930
 
 ## Link Issues
 
