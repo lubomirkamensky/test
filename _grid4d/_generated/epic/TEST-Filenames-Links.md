@@ -1,7 +1,7 @@
 # test Filenames & Links
 
-> Generated: 2026-09-13 14:14
-> Files indexed: 1928
+> Generated: 2026-09-13 14:34
+> Files indexed: 1930
 
 ## Duplicate Filenames
 
@@ -18,9 +18,10 @@ These filenames exist in multiple locations (violates uniqueness):
 | Type | Count |
 |------|-------|
 | ambiguous | 8 |
+| not_found | 2 |
 | path_in_link | 6 |
 
-**Total: 14 link issues**
+**Total: 16 link issues**
 
 ### Ambiguous
 
@@ -34,6 +35,13 @@ These filenames exist in multiple locations (violates uniqueness):
 | story/TEST-0001-tests.md | `TEST-0001` | Multiple files named 'TEST-0001' (2 found) |
 | story/TEST-0001.md | `jira-generated-story-ids` | Multiple files named 'jira-generated-story-ids' (2 found) |
 | story/TEST-0001.md | `subepic-story-pattern-resolution-broken` | Multiple files named 'subepic-story-pattern-resolution-broken' (2 found) |
+
+### Not Found
+
+| File | Reference | Message |
+|------|-----------|---------|
+| _generated/epic/story/TEST-0001.md | `SANDBOX-42` | No file named 'SANDBOX-42' in ahabase namespace |
+| story/TEST-0001-knowledge-map.md | `SANDBOX-42` | No file named 'SANDBOX-42' in ahabase namespace |
 
 ### Path In Link
 

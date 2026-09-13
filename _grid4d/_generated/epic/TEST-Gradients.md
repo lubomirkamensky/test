@@ -1,6 +1,6 @@
 # test Gradients
 
-> Generated: 2026-09-13 14:14
+> Generated: 2026-09-13 14:34
 
 ## Metric Implementation Status
 
@@ -16,13 +16,13 @@
 |  | Module Change Freshness | ❌ | - | - |
 | **Document** | Ontology Coverage | ⚠️ | no data | [Shaping](TEST-Shaping) |
 |  | Blueprint Traceability | ⚠️ | no data | [Shaping](TEST-Shaping) |
-|  | Karma | ✅ | 1614 uses / 1057 docs | [Karma-Report](TEST-Karma-Report) |
-|  | Knowledge Usage Freshness | ❌ | 0/9 fresh | [Usage](TEST-Usage) |
-|  | Knowledge Change Freshness | ✅ | 9/9 fresh | [Usage](TEST-Usage) |
+|  | Karma | ✅ | 1615 uses / 1058 docs | [Karma-Report](TEST-Karma-Report) |
+|  | Knowledge Usage Freshness | ❌ | 0/8 fresh | [Usage](TEST-Usage) |
+|  | Knowledge Change Freshness | ✅ | 8/8 fresh | [Usage](TEST-Usage) |
 |  | Concept Test Coverage | ⚠️ | no data | [Concepts](TEST-Concepts) |
 | **Epic** | Epic Progress | ✅ | 1/1 | [Stories](TEST-Stories) |
 |  | Story Progress | ✅ | 2/2 | [Stories](TEST-Stories) |
-|  | Dependency Validity | ⚠️ | 14 issues | [Filenames-Links](TEST-Filenames-Links) |
+|  | Dependency Validity | ⚠️ | 17 issues | [Filenames-Links](TEST-Filenames-Links) |
 |  | Issue Recurrence | ⚠️ | no data | [Issues](TEST-Issues) |
 |  | Alignment Debt | ❌ | - | - |
 |  | Code-Blueprint Drift | ❌ | - | - |

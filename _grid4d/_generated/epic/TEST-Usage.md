@@ -1,6 +1,6 @@
 # test Usage
 
-> Generated: 2026-09-13 14:14
+> Generated: 2026-09-13 14:34
 
 Prune evidence for the Shaping cycle (measure twice, cut once):
 the CLI names candidates deterministically; proposing and
@@ -8,15 +8,14 @@ confirming a Prune is LLM+Human.
 
 ## Summary
 
-- Documents: 9
-- Fresh: 0 · Aging: 0 · Stale: 0 · Unused: 9
-- **Prune candidates: 9** (unused + stale)
+- Documents: 8
+- Fresh: 0 · Aging: 0 · Stale: 0 · Unused: 8
+- **Prune candidates: 8** (unused + stale)
 
 ## Documents
 
 | Document | Karma | Last used | Changed | Signal |
 |----------|-------|-----------|---------|--------|
-| [SANDBOX-42](SANDBOX-42) | 0 | - | 1d | unused |
 | [TEST](TEST) | 0 | - | 1d | unused |
 | [TEST-0001](TEST-0001) | 0 | - | 1d | unused |
 | [TEST-0001-artifact-map](TEST-0001-artifact-map) | 0 | - | 1d | unused |
